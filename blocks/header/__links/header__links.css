@@ -1,0 +1,6 @@
+.header__links{
+    display: grid;
+    grid-template-columns: 30px 30px;
+    column-gap: 18px;
+    align-items: flex-end;
+}    
