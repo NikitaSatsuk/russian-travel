@@ -17,3 +17,15 @@
         max-width: 720px;
     }
 }
+
+@media screen and (max-width: 767px) {
+    .footer{
+        display: flex;
+        flex-flow: column wrap;
+        padding-top: 0;
+        padding-bottom: 0;
+        padding-left: 16px;
+        padding-right: 16px;
+        max-width: 320px;
+    }
+}

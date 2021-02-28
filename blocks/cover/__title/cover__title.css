@@ -9,3 +9,16 @@
     z-index: 3;
     margin: 0 0 32px;
 }
+
+@media screen and (max-width: 767px) {
+    .cover__title{
+        max-width: 288px;
+        font-family: Inter;
+        font-size: 32px;
+        font-style: normal;
+        font-weight: 900;
+        line-height: 35px;
+        text-align: center;
+        margin: 33px auto auto;
+    }
+}

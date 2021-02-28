@@ -14,3 +14,8 @@
     transition: 0.7s;
 }
 
+@media screen and (max-width: 767px) {
+    .cover__background{
+        background-size: cover;
+    }
+}
