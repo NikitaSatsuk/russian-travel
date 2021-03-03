@@ -1,5 +1,5 @@
 .place__paragraph{
-    font-family: Inter, sans-serif;
+    font-family: Inter, Arial, sans-serif;
     font-size: 18px;
     font-weight: normal;
     font-style: normal;
@@ -11,6 +11,12 @@
     margin-bottom: 0;
 }
 
+@media screen and (max-width: 1023px) {
+    .place__paragraph{
+        font-size: 16px;
+        line-height: 26px;
+    }
+}
 @media screen and (max-width: 767px) {
     .place__paragraph{
         max-width: 288px;

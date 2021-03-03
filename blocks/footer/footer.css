@@ -20,7 +20,6 @@
 
 @media screen and (max-width: 767px) {
     .footer{
-        display: flex;
         flex-flow: column wrap;
         padding-top: 0;
         padding-bottom: 0;

@@ -1,22 +1,16 @@
 @import url(../vendor/normalize.css);
 
 @import url(../fonts/fonts/fonts.css);
-@import url(../fonts/fonts/Inter-Black.woff);
-@import url(../fonts/fonts/Inter-Black.woff2);
-@import url(../fonts/fonts/Inter-Regular.woff);
-@import url(../fonts/fonts/Inter-Regular.woff2);
-@import url(../fonts/fonts/Inter-Bold.woff);
-@import url(../fonts/fonts/Inter-Bold.woff2);
 
 @import url(../blocks/page/page.css);
 @import url(../blocks/page/__cover/page__cover.css);
 
 @import url(../blocks/logo/logo.css);
-@import url(../blocks/logo/logo_header/logo_header.css);
 
-@import url(../blocks/header/__links/header__links.css);
-@import url(../blocks/header/__lang-link/header__lang-link.css);
 @import url(../blocks/header/header.css);
+@import url(../blocks/header/__lang-link/header__lang-linl.css);
+@import url(../blocks/header/__links/header__links.css);
+@import url(../blocks/header/__lang-link/_active/header__lang-link_active.css);
 
 @import url(../blocks/lead/lead.css);
 @import url(../blocks/lead/__title/lead__title.css);
