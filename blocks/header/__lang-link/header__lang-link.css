@@ -8,10 +8,6 @@
     text-decoration: none;
 }
 
-.active{
-    text-decoration: underline;
-}
-
 .header__lang-link:hover{
     opacity: 0.8;
 }
